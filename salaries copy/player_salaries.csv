@@ -1,0 +1,743 @@
+Team,Player,Salary,Adjusted Salary
+Atlanta,John Collins,23000000,25083744
+Atlanta,Danilo Gallinari,20475000,22329985
+Atlanta,Bogdan Bogdanovic,18000000,19630756
+Atlanta,Clint Capela,17603448,19198277
+Atlanta,Delon Wright,8526316,9298779
+Atlanta,Trae Young,8326471,9080829
+Atlanta,De'Andre Hunter,7775400,8479832
+Atlanta,Onyeka Okongwu,6104280,6657312
+Atlanta,Kevin Knox,5845978,6375609
+Atlanta,Louis Williams,5000000,5452987
+Atlanta,Kevin Huerter,4253357,4638700
+Atlanta,Gorgui Dieng,4000000,4362390
+Atlanta,Jalen Johnson,2659680,2900640
+Atlanta,Timothe Luwawu,1939350,2115050
+Atlanta,Skylar Mays,510907,557193
+Atlanta,Sharife Cooper,462629,504542
+Atlanta,Lance Stephenson,138019,150523
+Atlanta,Wesley Iwundu,102831,112147
+Atlanta,Chris Clemons,85578,93331
+Atlanta,Cameron Oliver,85578,93331
+Atlanta,Chaundee Brown,58494,63793
+Atlanta,Justin Tillman,53176,57993
+Atlanta,Malik Ellison,53176,57993
+Atlanta,Anthony Barber,53176,57993
+Atlanta,Malcolm Hill,53176,57993
+Boston,Jayson Tatum,28103500,30649609
+Boston,Al Horford,27000000,29446134
+Boston,Jaylen Brown,26758928,29183222
+Boston,Derrick White,15678571,17099011
+Boston,Marcus Smart,13839285,15093090
+Boston,Daniel Theis,8280351,9030530
+Boston,Robert Williams,3661976,3993742
+Boston,Aaron Nesmith,3631200,3960177
+Boston,Grant Williams,2617800,2854966
+Boston,Payton Pritchard,2137440,2331086
+Boston,Jabari Parker,1168286,1274129
+Boston,Sam Hauser,619498,675623
+Boston,Luke Kornet,606702,661667
+Boston,Brodric Thomas,462629,504542
+Boston,Nik Stauskas,423536,461907
+Boston,Malik Fitts,402218,438657
+Boston,Kelan Martin,191860,209242
+Boston,Al-Farouq Aminu,151821,165575
+Boston,Joe Johnson,151821,165575
+Boston,CJ Miles,151821,165575
+Boston,Juwan Morgan,115116,125545
+Boston,Matt Ryan,111669,121785
+Boston,Justin Jackson,102831,112147
+Boston,Norvel Pelle,95930,104621
+Boston,Demetrius Jackson,92857,101269
+Brooklyn,Kevin Durant,42018900,45825710
+Brooklyn,Kyrie Irving,35328700,38529394
+Brooklyn,Ben Simmons,33003936,35994012
+Brooklyn,Joe Harris,17357143,18929658
+Brooklyn,Seth Curry,8207518,8951099
+Brooklyn,Patrick Mills,5890000,6423619
+Brooklyn,Bruce Brown,4736102,5165181
+Brooklyn,Jevon Carter,3650000,3980681
+Brooklyn,James Johnson,2641691,2881021
+Brooklyn,Blake Griffin,2641691,2881021
+Brooklyn,LaMarcus Aldridge,2641691,2881021
+Brooklyn,Andre Drummond,2401537,2619110
+Brooklyn,Edmond Sumner,2320000,2530186
+Brooklyn,Jahlil Okafor,2130023,2322997
+Brooklyn,Cam Thomas,2036280,2220762
+Brooklyn,Day'Ron Sharpe,2009160,2191185
+Brooklyn,Nicolas Claxton,1782621,1944122
+Brooklyn,DeAndre Bembry,1669178,1820401
+Brooklyn,Goran Dragic,728742,794764
+Brooklyn,Kessler Edwards,463211,505176
+Brooklyn,David Duke,462629,504542
+Brooklyn,Langston Galloway,257418,280739
+Brooklyn,Shaquille Harrison,205662,224294
+Brooklyn,James Ennis,128709,140369
+Brooklyn,Wenyen Gabriel,99380,108383
+Charlotte,Gordon Hayward,29925000,32636132
+Charlotte,Terry Rozier,17905263,19527436
+Charlotte,Kelly Oubre,12000000,13087170
+Charlotte,Montrezl Harrell,9720900,10601590
+Charlotte,Mason Plumlee,9248333,10086209
+Charlotte,Nicolas Batum,8856969,9659388
+Charlotte,LaMelo Ball,8231760,8977537
+Charlotte,Miles Bridges,5421493,5912667
+Charlotte,PJ Washington,4215120,4596999
+Charlotte,James Bouknight,4154400,4530778
+Charlotte,Kai Jones,2770560,3021566
+Charlotte,Wesley Iwundu,1824003,1989253
+Charlotte,Cody Martin,1782621,1944122
+Charlotte,Jalen McDaniels,1782621,1944122
+Charlotte,Nick Richards,1517981,1655506
+Charlotte,JT Thor,1250000,1363246
+Charlotte,Isaiah Thomas,607284,662302
+Charlotte,Arnoldas Kulboka,462629,504542
+Charlotte,Scottie Lewis,462629,504542
+Chicago,DeMar DeRozan,26000000,28355537
+Chicago,Nikola Vucevic,24000000,26174341
+Chicago,Zach LaVine,19500000,21266652
+Chicago,Lonzo Ball,18604651,20290187
+Chicago,Derrick Jones,9720900,10601590
+Chicago,Alex Caruso,8600000,9379139
+Chicago,Patrick Williams,7422000,8094415
+Chicago,Coby White,5837760,6366646
+Chicago,Troy Brown,5170564,5639004
+Chicago,Tony Bradley,1789256,1951358
+Chicago,Javonte Green,1669178,1820401
+Chicago,Matt Thomas,1669178,1820401
+Chicago,Alfonzo McKinnie,1090007,1188758
+Chicago,Tristan Thompson,1000000,1090597
+Chicago,Marko Simonovic,925258,1009084
+Chicago,Ayo Dosunmu,925258,1009084
+Chicago,Alize Johnson,705600,769525
+Chicago,Tyler Cook,462629,504542
+Chicago,Malcolm Hill,271197,295766
+Chicago,Devon Dotson,239291,260970
+Chicago,Ersan Ilyasova,151821,165575
+Chicago,Stanley Johnson,120083,130962
+Chicago,Mac McClung,106352,115987
+Chicago,Jordan Bell,102831,112147
+Cleveland,Kevin Love,31258256,34090178
+Cleveland,Jarrett Allen,20000000,21811951
+Cleveland,Caris LeVert,17500000,19085457
+Cleveland,Lauri Markkanen,15690909,17112467
+Cleveland,Cedi Osman,8133334,8870194
+Cleveland,Evan Mobley,8075160,8806749
+Cleveland,Darius Garland,7040880,7678766
+Cleveland,Isaac Okoro,6720720,7329600
+Cleveland,Collin Sexton,6349671,6924935
+Cleveland,Rajon Rondo,2641691,2881021
+Cleveland,Ed Davis,2641691,2881021
+Cleveland,Dylan Windler,2239200,2442066
+Cleveland,Dean Wade,1782621,1944122
+Cleveland,Kevin Pangos,1569178,1711341
+Cleveland,Lamar Stevens,1517981,1655506
+Cleveland,JR Smith,1456667,1588637
+Cleveland,RJ Nembhard,491876,536438
+Cleveland,Brandon Goodwin,343988,375152
+Cleveland,Moses Brown,232316,253363
+Cleveland,Tacko Fall,218021,237773
+Cleveland,Tim Frazier,128709,140369
+Cleveland,Justin Anderson,111457,121554
+Cleveland,Luke Kornet,102831,112147
+Cleveland,Malik Newman,85578,93331
+Cleveland,Tre Scott,53176,57993
+Detroit,Blake Griffin,29764126,32460683
+Detroit,Jerami Grant,20002500,21814678
+Detroit,Kelly Olynyk,12195122,13299970
+Detroit,Marvin Bagley,11312114,12336964
+Detroit,Cade Cunningham,10050120,10960636
+Detroit,DeAndre Jordan,7875533,8589037
+Detroit,Cory Joseph,7310000,7972268
+Detroit,Killian Hayes,5572680,6077551
+Detroit,Hamidou Diallo,5200000,5671107
+Detroit,Isaiah Stewart,3277080,3573975
+Detroit,Frank Jackson,3000000,3271792
+Detroit,Dewayne Dedmon,2866667,3126380
+Detroit,Saddiq Bey,2824320,3080196
+Detroit,Rodney McGruder,1939350,2115050
+Detroit,Deividas Sirvydis,1603559,1748837
+Detroit,Saben Lee,1489065,1623970
+Detroit,Zhaire Smith,1068200,1164976
+Detroit,Isaiah Livers,1057260,1153045
+Detroit,Luka Garza,925258,1009084
+Detroit,Sean Chris Smith,462629,504542
+Detroit,Jamorko Pickett,462629,504542
+Detroit,Cassius Stanley,256734,279993
+Detroit,Cheick Diallo,102831,112147
+Detroit,Justin Robinson,95930,104621
+Detroit,Derrick Walton,95930,104621
+Detroit,Carsen Edwards,76744,83696
+Detroit,Braxton Key,74446,81190
+Detroit,Jaysean Paige,53176,57993
+Detroit,Micah Potter,53176,57993
+Detroit,Trayvon Palmer,53176,57993
+Indiana,Buddy Hield,23073234,25163613
+Indiana,Malcolm Brogdon,21700000,23665967
+Indiana,Myles Turner,18000000,19630756
+Indiana,Ricky Rubio,17800000,19412636
+Indiana,TJ Warren,12940000,14112332
+Indiana,Tristan Thompson,8946611,9757152
+Indiana,TJ McConnell,7500000,8179481
+Indiana,Jalen Smith,4458000,4861884
+Indiana,Tyrese Haliburton,4023600,4388128
+Indiana,Chris Duarte,3749400,4089086
+Indiana,Goga Bitadze,3098400,3379107
+Indiana,Isaiah Jackson,2451240,2673316
+Indiana,Monta Ellis,2245400,2448827
+Indiana,Oshae Brissett,1701593,1855753
+Indiana,Lance Stephenson,1476806,1610601
+Indiana,Duane Washington Jr,1346676,1468681
+Indiana,Terry Taylor,895125,976221
+Indiana,Kelan Martin,801900,874550
+Indiana,Brad Wanamaker,715538,780364
+Indiana,Keifer Sykes,558345,608929
+Indiana,Justin Anderson,334371,364664
+Indiana,DeJon Jarreau,119645,130484
+Indiana,Nate Hinton,96213,104929
+Indiana,Reggie Perry,85578,93331
+Indiana,Ahmad Caver,53176,57993
+Indiana,Gabe York,10635,11598
+Miami,Jimmy Butler,36016200,39279180
+Miami,Bam Adebayo,28103500,30649609
+Miami,Kyle Lowry,26984128,29428824
+Miami,Duncan Robinson,15650000,17067852
+Miami,PJ Tucker,7000000,7634183
+Miami,Ryan Anderson,5214583,5687011
+Miami,Tyler Herro,4004280,4367058
+Miami,Markieff Morris,2641691,2881021
+Miami,Udonis Haslem,2641691,2881021
+Miami,Dewayne Dedmon,2389641,2606136
+Miami,Victor Oladipo,2389641,2606136
+Miami,Gabe Vincent,1669178,1820401
+Miami,Max Strus,1669178,1820401
+Miami,Omer Yurtseven,1489065,1623970
+Miami,Caleb Martin,844011,920476
+Miami,Haywood Highsmith,547701,597321
+Miami,Chris Silva,383720,418484
+Miami,Kyle Guy,383079,417785
+Miami,Marcus Garrett,236632,258070
+Miami,Ja'Vonte Smart,146233,159481
+Miami,Mario Chalmers,138019,150523
+Miami,Nik Stauskas,111457,121554
+Miami,Zylan Cheatham,85578,93331
+Miami,Aric Holman,53176,57993
+Miami,Mychal Mulder,47858,52193
+Milwaukee,Giannis Antetokounmpo,39344900,42909452
+Milwaukee,Khris Middleton,35500000,38716214
+Milwaukee,Jrue Holiday,31171333,33995380
+Milwaukee,Brook Lopez,13302325,14507483
+Milwaukee,Serge Ibaka,9720900,10601590
+Milwaukee,Pat Connaughton,5333334,5816521
+Milwaukee,Bobby Portis,4347600,4741482
+Milwaukee,Grayson Allen,4054695,4422040
+Milwaukee,George Hill,4000000,4362390
+Milwaukee,Jon Leuer,3169348,3456483
+Milwaukee,Wesley Matthews,1958495,2135929
+Milwaukee,Larry Sanders,1865546,2034559
+Milwaukee,Thanasis Antetokounmpo,1729217,1885879
+Milwaukee,Jordan Nwora,1517981,1655506
+Milwaukee,DeMarcus Cousins,900283,981846
+Milwaukee,DeAndre Bembry,601867,656394
+Milwaukee,Sandro Mamukelashvili,462629,504542
+Milwaukee,Georgios Kalaitzakis,462629,504542
+Milwaukee,Jevon Carter,457149,498565
+Milwaukee,Lindell Wigginton,233973,255170
+Milwaukee,Greg Monroe,138019,150523
+Milwaukee,Langston Galloway,128709,140369
+Milwaukee,Ja'Vonte Smart,119645,130484
+Milwaukee,Luke Kornet,102831,112147
+Milwaukee,Justin Robinson,74093,80805
+Milwaukee,Jeff Dowtin,53176,57993
+Milwaukee,Javin DeLaurier,53176,57993
+Milwaukee,Luca Vildoza,42789,46665
+Milwaukee,Rayjon Tucker,28779,31386
+New York,Julius Randle,19800000,21593832
+New York,Evan Fournier,17142857,18695958
+New York,Derrick Rose,13445120,14663215
+New York,Alec Burks,9536000,10399938
+New York,Nerlens Noel,8800000,9597258
+New York,Kemba Walker,8729020,9519848
+New York,RJ Barrett,8623920,9405226
+New York,Joakim Noah,6431666,7014359
+New York,Obi Toppin,5105160,5567675
+New York,Taj Gibson,4910000,5354834
+New York,Cam Reddish,4670160,5093265
+New York,Solomon Hill,2389641,2606136
+New York,Immanuel Quickley,2210640,2410918
+New York,Quentin Grimes,2168640,2365113
+New York,Mitchell Robinson,1802057,1965319
+New York,Miles McBride,925258,1009084
+New York,Denzel Valentine,902802,984593
+New York,Wayne Selden,812363,885961
+New York,Ryan Arcidiacono,774727,844915
+New York,Jericho Sims,462629,504542
+New York,Luka Samanic,396159,432050
+New York,Damyean Dotson,205662,224294
+New York,Matt Mooney,171156,186662
+New York,Danuel House,111457,121554
+New York,Feron Hunt,63811,69592
+New York,Tyler Hall,53176,57993
+Orlando,Gary Harris,20932143,22828544
+Orlando,Jonathan Isaac,17400000,18976397
+Orlando,Markelle Fultz,16500000,17994860
+Orlando,Terrence Ross,12500000,13632469
+Orlando,Mo Bamba,7568743,8254452
+Orlando,Wendell Carter,6920027,7546964
+Orlando,Jalen Suggs,6592920,7190222
+Orlando,Timofey Mozgov,5573333,6078263
+Orlando,Franz Wagner,5007840,5461538
+Orlando,Robin Lopez,5000000,5452987
+Orlando,Cole Anthony,3449400,3761907
+Orlando,Michael Carter-Williams,3300000,3598972
+Orlando,Chuma Okeke,3277080,3573975
+Orlando,E'Twaun Moore,2641691,2881021
+Orlando,RJ Hampton,2303040,2511689
+Orlando,Bol Bol,2161152,2356947
+Orlando,PJ Dozier,1910860,2083979
+Orlando,Moritz Wagner,1729217,1885879
+Orlando,Ignas Brazdeikis,462629,504542
+Orlando,Admiral Schofield,423741,462130
+Orlando,Tim Frazier,257418,280739
+Orlando,Mychal Mulder,210044,229073
+Orlando,Devin Cannady,185578,202390
+Orlando,Freddie Gillespie,171156,186662
+Orlando,Hassani Gravett,106352,115987
+Orlando,BJ Johnson,95930,104621
+Orlando,Jeff Dowtin,53176,57993
+Orlando,Aleem Ford,53176,57993
+Philadelphia,James Harden,44310840,48325294
+Philadelphia,Tobias Harris,35995950,39257095
+Philadelphia,Joel Embiid,31579390,34440406
+Philadelphia,Danny Green,10000000,10905975
+Philadelphia,Furkan Korkmaz,4629630,5049063
+Philadelphia,Georges Niang,3300000,3598972
+Philadelphia,Matisse Thybulle,2840160,3097471
+Philadelphia,Paul Millsap,2641691,2881021
+Philadelphia,Tyrese Maxey,2602920,2838738
+Philadelphia,Jaden Springer,2023680,2207020
+Philadelphia,Shake Milton,1846738,2014047
+Philadelphia,Isaiah Joe,1517981,1655506
+Philadelphia,Paul Reed,1517981,1655506
+Philadelphia,George Hill,1275491,1391047
+Philadelphia,Charles Bassey,925258,1009084
+Philadelphia,DeAndre Jordan,592103,645746
+Philadelphia,Charlie Brown,335221,365591
+Philadelphia,Myles Powell,300443,327662
+Philadelphia,Aaron Henry,223338,243571
+Philadelphia,Grant Riller,162186,176879
+Philadelphia,Tyler Johnson,128709,140369
+Philadelphia,Willie Cauley-Stein,120083,130962
+Philadelphia,Braxton Key,53176,57993
+Toronto,Pascal Siakam,33003936,35994012
+Toronto,Fred VanVleet,19675926,21458517
+Toronto,Gary Trent Jr,16225000,17694945
+Toronto,OG Anunoby,16071429,17527461
+Toronto,Thaddeus Young,14190000,15475579
+Toronto,Scottie Barnes,7280400,7939986
+Toronto,Chris Boucher,7020000,7655995
+Toronto,Khem Birch,6350000,6925294
+Toronto,Precious Achiuwa,2711280,2956915
+Toronto,Malachi Flynn,2048040,2233587
+Toronto,Drew Eubanks,1762796,1922501
+Toronto,Yuta Watanabe,1762796,1922501
+Toronto,Isaac Bonga,1729217,1885879
+Toronto,Sviatoslav Mykhailiuk,1729217,1885879
+Toronto,Dalano Banton,925258,1009084
+Toronto,Justin Champagnie,462629,504542
+Toronto,David Johnson,462629,504542
+Toronto,Sam Dekker,350000,381709
+Toronto,DJ Wilson,308493,336441
+Toronto,Armoni Brooks,250000,272649
+Toronto,Ishmail Wainright,250000,272649
+Toronto,Juwan Morgan,95930,104621
+Toronto,Tremont Waters,95930,104621
+Toronto,Daniel Oturu,85578,93331
+Toronto,Freddie Gillespie,50000,54529
+Washington,Bradley Beal,33724200,36779530
+Washington,Kristaps Porzingis,31650600,34518067
+Washington,Kentavious Caldwell-Pope,13038862,14220151
+Washington,Kyle Kuzma,13000000,14177768
+Washington,Thomas Bryant,8666667,9451846
+Washington,Rui Hachimura,4916160,5361552
+Washington,Deni Avdija,4692840,5117999
+Washington,Ishmael Smith,4500000,4907689
+Washington,Corey Kispert,3383640,3690189
+Washington,Raul Neto,2089448,2278746
+Washington,Daniel Gafford,1782621,1944122
+Washington,Vernon Carey,1517981,1655506
+Washington,Anthony Gill,1517981,1655506
+Washington,Isaiah Todd,1500000,1635896
+Washington,Tomas Satoransky,468119,510529
+Washington,Cassius Winston,462629,504542
+Washington,Joel Ayayi,462629,504542
+Washington,Greg Monroe,138019,150523
+Washington,Brad Wanamaker,99380,108383
+Washington,Alize Johnson,99380,108383
+Washington,Tremont Waters,95930,104621
+Washington,Jaime Echenique,53176,57993
+Washington,Craig Sword,53176,57993
+Washington,Jordan Goodwin,53176,57993
+Washington,Jordan Schakel,53176,57993
+Dallas,Tim Hardaway Jr,21306816,23237161
+Dallas,Spencer Dinwiddie,19314284,21064111
+Dallas,Davis Bertans,16000000,17449561
+Dallas,Dwight Powell,11080125,12083957
+Dallas,Luka Doncic,10174391,11096166
+Dallas,Reggie Bullock,9536000,10399938
+Dallas,Maxi Kleber,8750000,9542728
+Dallas,Willie Cauley-Stein,4100000,4471450
+Dallas,Dorian Finney-Smith,4000000,4362390
+Dallas,Boban Marjanovic,3500000,3817091
+Dallas,Trey Burke,3150000,3435382
+Dallas,Sterling Brown,3000000,3271792
+Dallas,Josh Green,2957520,3225464
+Dallas,Jalen Brunson,1802057,1965319
+Dallas,Frank Ntilikina,1789256,1951358
+Dallas,Moses Brown,1701593,1855753
+Dallas,Tyrell Terry,1517981,1655506
+Dallas,Marquese Chriss,1292900,1410033
+Dallas,Theo Pinson,440710,480637
+Dallas,Eugene Omoruyi,281831,307364
+Dallas,Brandon Knight,274672,299556
+Dallas,JaQuori McLaughlin,220679,240671
+Dallas,Isaiah Thomas,151821,165575
+Dallas,Moses Wright,119645,130484
+Dallas,Charlie Brown,95930,104621
+Dallas,George King,85578,93331
+Dallas,Carlik Jones,53176,57993
+Denver,Nikola Jokic,31044906,33857499
+Denver,Jamal Murray,29467800,32137511
+Denver,Aaron Gordon,16409091,17895714
+Denver,Will Barton,15625000,17040587
+Denver,Monte Morris,8449074,9214539
+Denver,JaMychal Green,8200000,8942900
+Denver,Michael Porter,5258735,5735163
+Denver,Bryn Forbes,4500000,4907689
+Denver,Jeff Green,4500000,4907689
+Denver,Facundo Campazzo,3100000,3380852
+Denver,Zeke Nnaji,2498760,2725141
+Denver,Austin Rivers,2401537,2619110
+Denver,Bones Hyland,2096880,2286852
+Denver,Vlatko Cancar,1782621,1944122
+Denver,DeMarcus Cousins,1138659,1241818
+Denver,Davon Reed,532398,580631
+Denver,Markus Howard,462629,504542
+Denver,Petr Cornelie,218021,237773
+Denver,James Ennis,128709,140369
+Denver,Rayjon Tucker,95930,104621
+Denver,Carlik Jones,53176,57993
+Golden State,Stephen Curry,45780966,49928610
+Golden State,Klay Thompson,37980720,41421681
+Golden State,Andrew Wiggins,31579390,34440406
+Golden State,Draymond Green,24026712,26203473
+Golden State,James Wiseman,9166800,9997289
+Golden State,Jonathan Kuminga,5466360,5961598
+Golden State,Kevon Looney,5178572,5647738
+Golden State,Moses Moody,3562200,3884926
+Golden State,Andre Iguodala,2641691,2881021
+Golden State,Otto Porter,2389641,2606136
+Golden State,Jordan Poole,2161440,2357261
+Golden State,Nemanja Bjelica,2089448,2278746
+Golden State,Damion Lee,1910860,2083979
+Golden State,Juan Toscano-Anderson,1701593,1855753
+Golden State,Gary Payton II,1669178,1820401
+Golden State,Shaun Livingston,666666,727064
+Golden State,Chris Chiozza,462629,504542
+Golden State,Quinndary Weatherspoon,346491,377882
+Golden State,Jeff Dowtin,199409,217474
+Houston,John Wall,44310840,48325294
+Houston,Eric Gordon,18218818,19869398
+Houston,Christian Wood,13666667,14904833
+Houston,Jalen Green,8992080,9806740
+Houston,DJ Augustin,7000000,7634183
+Houston,Dennis Schroeder,5890000,6423619
+Houston,David Nwaba,4650000,5071278
+Houston,Danuel House,3894000,4246786
+Houston,Sekou Doumbouya,3613680,3941070
+Houston,Alperen Sengun,3214680,3505922
+Houston,Enes Kanter,2641691,2881021
+Houston,Usman Garuba,2353320,2566525
+Houston,Josh Christopher,2259240,2463921
+Houston,Garrison Mathews,2000000,2181195
+Houston,Bruno Fernando,1782621,1944122
+Houston,Kevin Porter,1782621,1944122
+Houston,Jae'Sean Tate,1517981,1655506
+Houston,KJ Martin,1517981,1655506
+Houston,Armoni Brooks,1489065,1623970
+Houston,Daishen Nix,923078,1006706
+Houston,Trevelin Queen,303102,330562
+Houston,Troy Williams,122741,133861
+Houston,DeJon Jarreau,53176,57993
+Houston,Anthony Lamb,50517,55093
+Houston,Mfiondu Kabengele,19186,20924
+LA Clippers,Paul George,39344970,42909529
+LA Clippers,Kawhi Leonard,39344900,42909452
+LA Clippers,Marcus Morris,15627907,17043757
+LA Clippers,Norman Powell,15517242,16923066
+LA Clippers,Luke Kennard,13347727,14556998
+LA Clippers,Robert Covington,12975471,14151017
+LA Clippers,Reggie Jackson,10384500,11325310
+LA Clippers,Ivica Zubac,7518518,8199677
+LA Clippers,Nicolas Batum,3170029,3457225
+LA Clippers,Rodney Hood,2239544,2442441
+LA Clippers,Semi Ojeleye,1789256,1951358
+LA Clippers,Terance Mann,1782621,1944122
+LA Clippers,Isaiah Hartenstein,1729217,1885879
+LA Clippers,Jason Preston,1062303,1158545
+LA Clippers,BJ Boston,925258,1009084
+LA Clippers,Amir Coffey,573576,625540
+LA Clippers,Jay Scrubb,462629,504542
+LA Clippers,Xavier Moon,202069,220375
+LA Clippers,Wenyen Gabriel,198760,216767
+LA Clippers,James Ennis,128709,140369
+LA Clippers,Moses Wright,53176,57993
+LA Lakers,Russell Westbrook,44211146,48216568
+LA Lakers,LeBron James,41180544,44911401
+LA Lakers,Anthony Davis,35361360,38565013
+LA Lakers,Talen Horton-Tucker,9500000,10360677
+LA Lakers,Luol Deng,5000000,5452987
+LA Lakers,Kendrick Nunn,5000000,5452987
+LA Lakers,Dwight Howard,2641691,2881021
+LA Lakers,Trevor Ariza,2641691,2881021
+LA Lakers,Wayne Ellington,2641691,2881021
+LA Lakers,Carmelo Anthony,2641691,2881021
+LA Lakers,DeAndre Jordan,2641691,2881021
+LA Lakers,Avery Bradley,2641691,2881021
+LA Lakers,Kent Bazemore,2401537,2619110
+LA Lakers,Malik Monk,1789256,1951358
+LA Lakers,Stanley Johnson,1248915,1362063
+LA Lakers,Austin Reaves,925258,1009084
+LA Lakers,DJ Augustin,622467,678861
+LA Lakers,Mason Jones,295125,321862
+LA Lakers,Jay Huff,225997,246471
+LA Lakers,Sekou Doumbouya,185451,202252
+LA Lakers,Darren Collison,151821,165575
+LA Lakers,Isaiah Thomas,151821,165575
+LA Lakers,Wenyen Gabriel,124495,135773
+LA Lakers,Chaundee Brown,93058,101488
+LA Lakers,Jemerrio Jones,85578,93331
+LA Lakers,Mac McClung,5318,5799
+Memphis,Steven Adams,17073171,18619958
+Memphis,Dillon Brooks,12200000,13305290
+Memphis,Kyle Anderson,9937150,10837431
+Memphis,Ja Morant,9603360,10473401
+Memphis,Jaren Jackson Jr,9180560,10012296
+Memphis,De'Anthony Melton,8805976,9603776
+Memphis,Tyus Jones,8376286,9135157
+Memphis,Jarrett Culver,6395160,6974546
+Memphis,Kris Dunn,5005350,5458822
+Memphis,Rajon Rondo,4858309,5298460
+Memphis,Ziaire Williams,4373040,4769226
+Memphis,Brandon Clarke,2726880,2973928
+Memphis,Marc Gasol,2692991,2936969
+Memphis,John Konchar,2200000,2399314
+Memphis,Desmond Bane,2033160,2217359
+Memphis,Santiago Aldama,1994520,2175218
+Memphis,Killian Tillie,1901625,2073907
+Memphis,Carsen Edwards,1782621,1944122
+Memphis,Xavier Tillman,1517981,1655506
+Memphis,Sam Merrill,1517981,1655506
+Memphis,Daniel Oturu,1517981,1655506
+Memphis,Yves Pons,462629,504542
+Memphis,Tyrell Terry,351457,383298
+Memphis,Jontay Porter,300000,327179
+Memphis,Dakota Mathias,171156,186662
+Memphis,Shaquille Harrison,102831,112147
+Memphis,DaQuan Jeffries,95930,104621
+Memphis,Jon Teske,53176,57993
+Memphis,Shaq Buchanan,53176,57993
+Minnesota,Karl-Anthony Towns,31650600,34518067
+Minnesota,D'Angelo Russell,30013500,32732650
+Minnesota,Malik Beasley,14491964,15804900
+Minnesota,Patrick Beverley,14320987,15618433
+Minnesota,Taurean Prince,13334375,14542437
+Minnesota,Anthony Edwards,10245480,11173695
+Minnesota,Josh Okogie,4087904,4458258
+Minnesota,Jarred Vanderbilt,4050000,4416920
+Minnesota,Jake Layman,3940184,4297155
+Minnesota,Leandro Bolmaro,2353320,2566525
+Minnesota,Jaden McDaniels,2063280,2250208
+Minnesota,Jordan McLaughlin,2000000,2181195
+Minnesota,Naz Reid,1782621,1944122
+Minnesota,Jaylen Nowell,1782621,1944122
+Minnesota,Nathan Knight,462629,504542
+Minnesota,McKinley Wright,462629,504542
+Minnesota,Greg Monroe,198748,216754
+Minnesota,Chris Silva,95930,104621
+Minnesota,Rayjon Tucker,95930,104621
+New Orleans,CJ McCollum,30864198,33660419
+New Orleans,Brandon Ingram,29467800,32137511
+New Orleans,Jonas Valanciunas,14000000,15268366
+New Orleans,Devonte Graham,11000000,11996573
+New Orleans,Zion Williamson,10733400,11705820
+New Orleans,Larry Nance Jr,10690909,11659479
+New Orleans,Jaxson Hayes,5348280,5832821
+New Orleans,Garrett Temple,4910000,5354834
+New Orleans,Kira Lewis,3822240,4168525
+New Orleans,Trey Murphy,3053760,3330423
+New Orleans,Tony Snell,2389641,2606136
+New Orleans,Willy Hernangomez,2327220,2538060
+New Orleans,Jose Alvarado,1925406,2099843
+New Orleans,Herb Jones,1700000,1854015
+New Orleans,Naji Marshall,1517981,1655506
+New Orleans,Gary Clark,811213,884706
+New Orleans,Tyrone Wallace,198760,216767
+New Orleans,Alize Johnson,198760,216767
+New Orleans,Daulton Hommes,167504,182679
+New Orleans,Anthony Tolliver,151821,165575
+New Orleans,Wenyen Gabriel,99380,108383
+New Orleans,Miye Oni,95930,104621
+New Orleans,Justin James,95930,104621
+New Orleans,Zylan Cheatham,85578,93331
+New Orleans,Jared Harper,85081,92789
+New Orleans,Feron Hunt,53176,57993
+Oklahoma City,Kemba Walker,26238422,28615559
+Oklahoma City,Derrick Favors,9720900,10601590
+Oklahoma City,Josh Giddey,5988000,6530498
+Oklahoma City,Shai Gilgeous-Alexander,5495532,5993413
+Oklahoma City,Mike Muscala,3500000,3817091
+Oklahoma City,Aleksej Pokusevski,3113160,3395204
+Oklahoma City,Tre Mann,2901240,3164085
+Oklahoma City,Darius Bazley,2513040,2740715
+Oklahoma City,Ty Jerome,2412840,2631437
+Oklahoma City,Kenrich Williams,2000000,2181195
+Oklahoma City,Theo Maledon,2000000,2181195
+Oklahoma City,Jeremiah Robinson-Earl,2000000,2181195
+Oklahoma City,KZ Okpala,1782621,1944122
+Oklahoma City,Luguentz Dort,1782621,1944122
+Oklahoma City,Isaiah Roby,1782621,1944122
+Oklahoma City,Gabriel Deck,1690507,1843662
+Oklahoma City,Aaron Wiggins,1305761,1424059
+Oklahoma City,Kyle Singler,999200,1089725
+Oklahoma City,Vit Krejci,925258,1009084
+Oklahoma City,Mamadi Diakite,869078,947814
+Oklahoma City,Miye Oni,850331,927368
+Oklahoma City,Patrick Patterson,737067,803843
+Oklahoma City,Paul Watson,303102,330562
+Oklahoma City,Admiral Schofield,300000,327179
+Oklahoma City,Olivier Sarr,223339,243572
+Oklahoma City,Jaylen Hoard,191860,209242
+Oklahoma City,Lindy Waters III,159527,173979
+Oklahoma City,Scotty Hopson,95930,104621
+Oklahoma City,Rob Edwards,53176,57993
+Oklahoma City,Zavier Simpson,37223,40595
+Oklahoma City,Georgios Kalaitzakis,37223,40595
+Oklahoma City,Melvin Frazier,13294,14498
+Phoenix,Devin Booker,31650600,34518067
+Phoenix,Chris Paul,30800000,33590405
+Phoenix,Deandre Ayton,12632950,13777464
+Phoenix,Jae Crowder,9720900,10601590
+Phoenix,Dario Saric,8510000,9280985
+Phoenix,Cameron Payne,6500000,7088884
+Phoenix,Mikal Bridges,5557725,6061241
+Phoenix,JaVale McGee,5000000,5452987
+Phoenix,Torrey Craig,4878049,5319988
+Phoenix,Cameron Johnson,4437000,4838981
+Phoenix,Aaron Holiday,3980551,4341179
+Phoenix,Landry Shamet,3768342,4109744
+Phoenix,Elfrid Payton,2239544,2442441
+Phoenix,Frank Kaminsky,2089448,2278746
+Phoenix,Abdel Nader,2000000,2181195
+Phoenix,Bismack Biyombo,1518213,1655759
+Phoenix,Ishmail Wainright,457893,499376
+Phoenix,Justin Jackson,205662,224294
+Phoenix,Chandler Hutchison,204727,223274
+Phoenix,Paris Bass,106352,115987
+Phoenix,Emanuel Terry,85578,93331
+Phoenix,Gabriel Lundberg,79764,86990
+Phoenix,MJ Walker,53176,57993
+Portland,Damian Lillard,39344900,42909452
+Portland,Eric Bledsoe,18125000,19767081
+Portland,Joe Ingles,13036364,14217427
+Portland,Josh Hart,12000000,13087170
+Portland,Jusuf Nurkic,12000000,13087170
+Portland,Anfernee Simons,3938818,4295665
+Portland,Justise Winslow,3902439,4255990
+Portland,Andrew Nicholson,2844429,3102127
+Portland,Keon Johnson,2553240,2784557
+Portland,Cody Zeller,2389641,2606136
+Portland,Ben McLemore,2389641,2606136
+Portland,Nassir Little,2316240,2526085
+Portland,Dennis Smith,1789256,1951358
+Portland,Didi Louzada,1786878,1948764
+Portland,Elijah Hughes,1517981,1655506
+Portland,CJ Elleby,1517981,1655506
+Portland,Greg Brown,925258,1009084
+Portland,Trendon Watford,768830,838484
+Portland,Drew Eubanks,477024,520241
+Portland,Keljin Blevins,462629,504542
+Portland,Kris Dunn,312080,340353
+Portland,Brandon Williams,180798,197177
+Portland,Reggie Perry,102694,111997
+Portland,Jarron Cumberland,53176,57993
+Portland,Cameron McGriff,53176,57993
+Sacramento,De'Aaron Fox,28103500,30649609
+Sacramento,Harrison Barnes,20284091,22121780
+Sacramento,Domantas Sabonis,18500000,20176055
+Sacramento,Jeremy Lamb,10500000,11451274
+Sacramento,Richaun Holmes,10384500,11325310
+Sacramento,Justin Holiday,6006420,6550587
+Sacramento,Josh Jackson,5005350,5458822
+Sacramento,Donte DiVincenzo,4675830,5099448
+Sacramento,Davion Mitchell,4603200,5020238
+Sacramento,Moe Harkless,4347600,4741482
+Sacramento,Terence Davis,4000000,4362390
+Sacramento,Alex Len,3732000,4070110
+Sacramento,Trey Lyles,2500000,2726493
+Sacramento,Damian Jones,1977011,2156123
+Sacramento,Chimezie Metu,1762796,1922501
+Sacramento,Robert Woodard,1517981,1655506
+Sacramento,Jahmi'us Ramsey,1517981,1655506
+Sacramento,Neemias Queta,462629,504542
+Sacramento,Louis King,316396,345060
+Sacramento,Emmanuel Mudiay,111457,121554
+Sacramento,Justin Robinson,95930,104621
+Sacramento,Ade Murkey,53176,57993
+San Antonio,Goran Dragic,18620165,20307106
+San Antonio,Dejounte Murray,15428880,16826699
+San Antonio,Doug McDermott,13750000,14995716
+San Antonio,Josh Richardson,11615328,12667648
+San Antonio,Al-Farouq Aminu,10183800,11106427
+San Antonio,Tomas Satoransky,9531881,10395446
+San Antonio,Jakob Poeltl,8750000,9542728
+San Antonio,Zach Collins,7000000,7634183
+San Antonio,Lonnie Walker,4447896,4850864
+San Antonio,Devin Vassell,4235160,4618855
+San Antonio,Chandler Hutchison,4019459,4383612
+San Antonio,Josh Primo,3946800,4304370
+San Antonio,Romeo Langford,3804360,4149025
+San Antonio,Luka Samanic,2959080,3227165
+San Antonio,Keldon Johnson,2145720,2340117
+San Antonio,Keita Bates-Diop,1729217,1885879
+San Antonio,Tre Jones,1517981,1655506
+San Antonio,DeMarre Carroll,1242340,1354892
+San Antonio,Jock Landale,925258,1009084
+San Antonio,Devontae Cacok,726128,791913
+San Antonio,Joe Wieskamp,563663,614729
+San Antonio,Tyler Johnson,128709,140369
+San Antonio,DJ Stewart,101034,110187
+San Antonio,Robert Woodard,101034,110187
+San Antonio,Jaylen Morris,95930,104621
+San Antonio,Anthony Lamb,85578,93331
+Utah,Rudy Gobert,35344828,38546983
+Utah,Donovan Mitchell,28103500,30649609
+Utah,Mike Conley,21000000,22902549
+Utah,Bojan Bogdanovic,18700000,20394174
+Utah,Jordan Clarkson,12420000,13545221
+Utah,Royce O'Neale,8800000,9597258
+Utah,Juan Hernangomez,6803190,7419542
+Utah,Rudy Gay,5890000,6423619
+Utah,Nickeil Alexander-Walker,3261480,3556962
+Utah,Hassan Whiteside,2401537,2619110
+Utah,Udoka Azubuike,2075880,2263949
+Utah,Eric Paschall,1782621,1944122
+Utah,Danuel House,991967,1081836
+Utah,Jared Butler,925258,1009084
+Utah,Trent Forrest,463211,505176
+Utah,Malik Fitts,228656,249371
+Utah,Xavier Sneed,146233,159481
+Utah,Greg Monroe,138019,150523
+Utah,Denzel Valentine,102831,112147
+Utah,Norvel Pelle,95930,104621
+Utah,Zylan Cheatham,85578,93331
